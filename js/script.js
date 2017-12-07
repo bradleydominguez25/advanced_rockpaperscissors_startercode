@@ -27,4 +27,7 @@
 
 
 // DOCUMENT READY FUNCTION
-
+var userChoice = "";    
+var computerChoice;
+var winner ;
+var choices = ["rock","paper","scissors"];
