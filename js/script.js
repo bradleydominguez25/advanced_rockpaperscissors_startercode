@@ -27,7 +27,25 @@
 
 
 // DOCUMENT READY FUNCTION
-var userChoice = "";    
-var computerChoice;
-var winner ;
+var winner = "";
+var computer = "";
+var user = "";
 var choices = ["rock","paper","scissors"];
+var random = (Math.floor(Math.random()*3));
+$(document).ready(function(){
+        
+});
+if(){
+else if(){
+        
+}
+else if(){
+        
+}
+else if(){
+        
+}
+else(){
+        
+}
+}
